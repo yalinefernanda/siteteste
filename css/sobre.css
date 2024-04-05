@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3D3D3D;
+    width: 80%;
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.titulo {
+    background-color: #E1EDF2;
+    padding: 10px;
+    text-align: center;
+
+}
+.subtitulo {
+    border-bottom: 2px solid black;
+   
+}
+figure{
+    max-width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+    margin: 30px;
+    padding: 15px;
+}
+figcaption{
+    margin-top: 10px;
+}
+.matriz-musicdot {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.familia-tupfeln {
+    width: 275px;
+    float: right;
+}
+figure img {
+    width: 100%;
+}
+thead,
+tfoot {
+    background-color: #3f87a6;
+    color: #fff;
+}
+
+tbody {
+    background-color: #e4f0f5;
+}
+
+caption {
+    padding: 10px;
+    caption-side: bottom;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+}
+
+td,
+th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px 10px;
+}
+
+td {
+    text-align: center;
+}
+.rodape {
+    padding: 1.75em 0;
+    font-size: 1.1rem;
+}
+
+.rodape__logo {
+    width: 6em;
+}
+.rodape__copyright {
+    display: inline;
+    margin-left: 1em;
+}
